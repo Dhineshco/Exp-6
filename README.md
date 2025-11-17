@@ -1,7 +1,7 @@
 # Exp - 6 STUDENT ONLINE EXAM REGISTRATION SYSTEM
 
-#NAME: HARISH S
-#REG NO: 212224040105
+# NAME: HARISH S
+# REG NO: 212224040105
 
 # AIM : To create UML diagrams for Student Online Exam Registration System.
 
